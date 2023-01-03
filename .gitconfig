@@ -1,0 +1,9 @@
+[user]
+	email = konstantin.slyshkov@gmail.com
+	name = KOT
+	 
+[github]
+	user = “KonstantinSlyshkov”
+	 
+[core]
+	sshCommand = “ssh -i ~/.ssh/github”
