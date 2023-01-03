@@ -1,0 +1,6 @@
+avg-rt; threshold=>150ms requestName=Request1
+avg-rt; threshold=>100ms requestName=Request2
+avg-rt; threshold=>150ms requestName=ALL
+avg-rt; threshold=>150ms requestName=Request3
+succ; threshold=100% requestName=ALL
+succ; threshold=99% requestName=Request3
